@@ -7,7 +7,7 @@ I am coding some e-commerce projects
 
 Skills: Java / Database
 
-- 🔭 I’m currently working on Online store 
+- 🔭 I’m currently working on e-com app
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Kafka 
 
